@@ -1,3 +1,5 @@
+// ChatGPT wrote this so dont blame us if it breaks
+// Should have used Hotwire instead, no doubt
 const rubyConfTh = document.getElementById('rubyConfTh');
 const railsWorld = document.getElementById('railsWorld');
 const rockyMtn = document.getElementById('rockyMtn');
